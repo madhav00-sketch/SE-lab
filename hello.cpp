@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello GitHub SE-lab assignment";
+cout << "Hello from Feature Branch";
     return 0;
 }
